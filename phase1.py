@@ -1,3 +1,4 @@
+# create the base/parent class
 class Basic_features:
     def __init__(self):
 
