@@ -1,11 +1,12 @@
 # Build a basic object Orientated Calculator
 
 ## Phase 1: 
-- Build a simple calculator class containing add, subtract, multiply, divide.
-
-## Phase 2: 
-- Expand by creating:
 ```
+- Build a simple calculator class containing add, subtract, multiply, divide.
+```
+## Phase 2: 
+```
+- Expand by creating:
 1. Divisible by method that returns true or false dependent on the outcome
 2. Work out and return the area of a triangle
 3. inch to cm converter
