@@ -6,7 +6,7 @@ class Extra_features(Basic_features):
     def __init__(self):
         super().__init__()
         
-        # create a divisible by function that return boolean
+        # create a divisible by function that return boolean True if divisible
         def modulus(self, arg1, arg2):
             if arg1 % arg2 == 0:
                 return True
@@ -23,5 +23,6 @@ class Extra_features(Basic_features):
             cm = arg * 2.54
             return cm
 
+# create an instance of the class
 test = Extra_features()
-print(test.inch_to_cm(98))
+print(test.inch_to_cm(99))
